@@ -1,1 +1,1 @@
-# mental_health_in_Tech
+# Case Study: Mental Health in Tech
