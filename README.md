@@ -13,8 +13,7 @@ Survey responses from tech-industry workers, including:
 ## 🧪 Methods
 - **Data Cleaning**: Feature engineering, mapping, scaling, and handling missing values using domain-aware logic.
 - **Dimensionality Reduction**: PCA used to reduce noise before clustering.
-- **Clustering Model**:
-  - **HDBSCAN** – Hierarchical Density-Based Clustering
+- **Clustering Model**: **HDBSCAN** – Hierarchical Density-Based Clustering
 
 ## 📈 Evaluation
 - **Silhouette Scores** (full and bootstrapped)
